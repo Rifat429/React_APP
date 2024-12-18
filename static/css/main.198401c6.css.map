@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.198401c6.css","mappings":"AAAA,UACE,sBACF,CACA,QACE,oBACF","sources":["style.css"],"sourcesContent":[".bg-green {\r\n  background-color: green;\r\n}\r\n.bg-red {\r\n  background-color: red;\r\n}\r\n"],"names":[],"sourceRoot":""}
